@@ -20,5 +20,5 @@ Technologies Used: Servlet, JDBC, HTML, CSS, Bootstrap, MySQL
 
 Technologies Used: Spring Boot, JPA, React, Vercel, CSS, Postman, Railway
 
-Backend Code: https://github.com/harshvir098/TopTenSpotterBackend
-Frontend Code:https://github.com/hectorruiz572/TopTenSpotterFront
+- Backend Code: https://github.com/harshvir098/TopTenSpotterBackend
+- Frontend Code:https://github.com/hectorruiz572/TopTenSpotterFront
