@@ -3,10 +3,10 @@
 I’m **Harshvir**, a passionate developer driven by a love for technology and a commitment to continuous learning. Here, you can explore the projects I’ve completed and those I’m currently working on, along with an overview of my skills.
 
 ## ⚙️ Technologies and Tools
--Languages: Java (JDBC, Hibernate, Servlets)
--Databases: PostgreSQL, MySQL, PgAdmin
--Web Development: HTML, CSS, Bootstrap, React.js
--Design Tools: Figma
+- Languages: Java (JDBC, Hibernate, Servlets)
+- Databases: PostgreSQL, MySQL, PgAdmin
+- Web Development: HTML, CSS, Bootstrap, React.js
+- Design Tools: Figma
 
 ## 📫 Contact
 - LinkedIn Profile: https://www.linkedin.com/in/harshvirsingh098/
